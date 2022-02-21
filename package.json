@@ -1,0 +1,22 @@
+{
+  "name": "billingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:fe": "cd billingsystem-fe && npm run start",
+    "dev:be": "cd billingsystem-be && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abirhasanmubin/billingsystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abirhasanmubin/billingsystem/issues"
+  },
+  "homepage": "https://github.com/abirhasanmubin/billingsystem#readme"
+}
